@@ -31,9 +31,9 @@ for index in range(13):
 
 for index1 in range(13):
     if horasExtras[index1] > 5 :
-       monto[index1] =monto[index1] + (monto[index1] * (5 /100) )
+       monto[index1] =monto[index1] + (monto[index1] * (5 /100) )#En el 5 Va Bono1
     else:
-       monto[index1] =monto[index1] + (monto[index1] * (15 /100) )
+       monto[index1] =monto[index1] + (monto[index1] * (15 /100) )#En el 15 Va Bono2
 
 
 for i in range(13):
